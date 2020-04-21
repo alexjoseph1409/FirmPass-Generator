@@ -16,7 +16,6 @@ def  passgen():
 #Creating the GUI Window
 window = tk.Tk()
 window.title("FirmPass Generator V1.0")
-window.iconbitmap('F:\Python Projects\Firmpass Generator\Icon\icon.ico')
 width = 550
 height = 350
 screen_width = window.winfo_screenwidth()
